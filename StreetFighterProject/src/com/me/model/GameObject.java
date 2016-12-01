@@ -94,9 +94,6 @@ public abstract class GameObject
       y += deltaY;
    }
    
-   
-   
-   
  
    
    public void rotateRight()
